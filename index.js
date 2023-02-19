@@ -7,6 +7,9 @@ showName('Baiyr', 'Emilov');
 
 //2. Напишите функцию, которая выводит объем конуса по заданным параметрам - высота (height) и радиус (radius).
 // functionName(height, radius) // Объем конуса равен ...
+function coneVolume(height, radius){
+  cVolume =  ((height * 3.14 * (radius) * 2) / 3);
+  console.log("Объем конуса равен - " + cVolume);
+}
 
-function V (height, radius)
 
