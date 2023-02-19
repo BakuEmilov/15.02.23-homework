@@ -13,4 +13,8 @@ function coneVolume(height, radius){
 }
 coneVolume(9, 3);
 
+//3. Напишите функцию, которая принимает строку и возвращает ее длину.
+// functionName(" ... ") // Длина строки равна ...
+
+
 
