@@ -33,3 +33,9 @@ for (let i = 0; example8.length > i; i++) {
   }
 }
 
+
+//5
+function san(a){
+  
+}
+
