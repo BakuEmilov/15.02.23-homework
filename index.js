@@ -49,7 +49,9 @@ num(9);
 
 //7
 function perimeterofaPentagon(a, b, c, d, e) {
-  
+  perimeter = a + b + c + d + e;
+  console.log("Периметр пятиугольника равен -  " + perimeter);
 }
+
 
 
