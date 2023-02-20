@@ -48,6 +48,8 @@ function num(b){
 num(9);
 
 //7
-
+function perimeterofaPentagon(a, b, c, d, e) {
+  
+}
 
 
