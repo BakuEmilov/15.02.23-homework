@@ -37,13 +37,14 @@ for (let i = 0; example8.length > i; i++) {
 //5
 function san(a){
   total = a ** 2;
-  console.log("Корень этого числа равен " + total);
+  console.log("квадрат  этого числа равен " + total);
 }
 san(4);
 
 //6
 function num(b){
-  
+  console.log("корень этого числа равень " + Math.sqrt(b));
 }
+num(9);
 
 
