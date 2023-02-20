@@ -37,6 +37,8 @@ for (let i = 0; example8.length > i; i++) {
 //5
 function san(a){
   total = a ** 2;
-  console.log("Корень этого числа равен " + Math.sqrt(b));
+  console.log("Корень этого числа равен " + total);
 }
+san(4);
+
 
