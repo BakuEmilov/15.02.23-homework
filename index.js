@@ -52,6 +52,5 @@ function perimeterofaPentagon(a, b, c, d, e) {
   perimeter = a + b + c + d + e;
   console.log("Периметр пятиугольника равен -  " + perimeter);
 }
-
-
+perimeterofaPentagon(3, 4, 2, 6, 8);
 
