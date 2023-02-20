@@ -41,4 +41,9 @@ function san(a){
 }
 san(4);
 
+//6
+function num(b){
+  
+}
+
 
