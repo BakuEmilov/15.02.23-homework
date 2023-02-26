@@ -90,3 +90,9 @@ for (b = 0; b <= 15; b++){
 //14
 let sans = ["Baiyr", "Adil", "Mirbek", "Arzymat"];
 console.log(sans);
+
+sans.unshift("user1");
+sans.unshift("user2");
+sans.push("user7"); 
+sans.push("user8"); 
+sans.push("user9");
