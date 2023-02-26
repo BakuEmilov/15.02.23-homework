@@ -63,3 +63,4 @@ for(let i = 0; i <= number1; i++){
 }
 
 //9
+let number2 = 10;
