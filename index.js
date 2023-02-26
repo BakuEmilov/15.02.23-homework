@@ -96,3 +96,5 @@ sans.unshift("user2");
 sans.push("user7"); 
 sans.push("user8"); 
 sans.push("user9");
+
+console.log(sans);
