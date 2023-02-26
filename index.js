@@ -88,3 +88,5 @@ for (b = 0; b <= 15; b++){
 }
 
 //14
+let sans = ["Baiyr", "Adil", "Mirbek", "Arzymat"];
+console.log(sans);
