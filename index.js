@@ -68,3 +68,5 @@ for (let i = 0; i <= number2; i++){
   result = i % 2; 
   console.log(result);
 }
+
+//10
