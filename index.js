@@ -56,3 +56,6 @@ perimeterofaPentagon(3, 4, 2, 6, 8);
 
 //8
 let number1 = 33
+for(let i = 0; i <= number1; i++){
+  
+}
