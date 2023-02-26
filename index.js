@@ -61,3 +61,5 @@ for(let i = 0; i <= number1; i++){
     console.log(i);
     }
 }
+
+//9
