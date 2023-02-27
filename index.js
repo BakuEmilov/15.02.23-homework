@@ -120,3 +120,5 @@ for (let i = 0; i < n.length; i++){
 
 //20
 let animals = ["dog", "cat", "snake"];
+alert( animals.indexOf("dog")!= -1);
+console.log();
