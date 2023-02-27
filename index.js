@@ -104,3 +104,6 @@ console.log(sans);
 //17
 let numbers = ["one", "two", "three"];
 console.log(numbers.reverse());
+
+//18
+let frends = ["Adil", "Mirbek", "Yntymak"];
