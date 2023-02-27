@@ -110,3 +110,6 @@ let frends = ["Adil", "Mirbek", "Yntymak"];
 for (let i = 0; i < frends.length; i++){
   console.log("Hello " + frends[i]);
 }
+
+//19
+let n = [2, 3, 4, 5];
