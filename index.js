@@ -114,5 +114,6 @@ for (let i = 0; i < frends.length; i++){
 //19
 let n = [2, 3, 4, 5];
 for (let i = 0; i < n.length; i++){
-  
+  total2 = n[i]  2;
+  console.log(total2)
 }
