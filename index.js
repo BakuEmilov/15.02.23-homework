@@ -107,3 +107,6 @@ console.log(numbers.reverse());
 
 //18
 let frends = ["Adil", "Mirbek", "Yntymak"];
+for (let i = 0; i < frends.length; i++){
+  
+}
