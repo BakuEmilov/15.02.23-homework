@@ -98,3 +98,8 @@ sans.push("user8");
 sans.push("user9");
 
 console.log(sans);
+
+//15
+
+//17
+let numbers = ["one", "two", "three"];
